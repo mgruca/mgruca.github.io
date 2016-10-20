@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Book review: Michał Bartyzel, "Tailored software"'
+date: 2014-05-11 19:55:52.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- Reviews
+tags:
+- book review
+- soft skills
+---
+<p><img class="alignright size-medium wp-image-489" src="{{ site.baseurl }}/assets/bartyzel_klient-300x300.jpg" alt="Tailored software" width="300" height="300" /></p>
+<p>That will be quite unusual post for at least two reasons. That's my first book review and what may sound dumb, I'm reviewing Polish book, that has not been translated to English <strong>yet</strong> (original title: <a title="Oprogramowanie szyte na miare - Helion, sklep" href="http://helion.pl/ksiazki/oprogramowanie-szyte-na-miare-jak-rozmawiac-z-klientem-ktory-nie-wie-czego-chce-michal-bartyzel,opszmi.htm"><em>Oprogramowanie Szyte na miarę</em></a>). If you wonder why I write this review in English, the answer is simple: I've heard rumors about the translation and I want to add my 2 cents to motivate the author to speed it up a bit :)</p>
+<p>Recently I was discussing with <a title="Tomasz Dziurko twitter stream" href="https://twitter.com/tomaszdziurko">Tomasz Dziurko</a> on Twitter why I think that book <a title="Clean Code - amazon" href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">Clean Code</a> should be read 3 times by every developer on this planet. Tailored Software is quite similar in this matter. It should be obligatory on last year of University and after a year or two in the field, for every IT professional that has to work with the client.</p>
+<p>Let's start with the author of the book. <a title="Michał Bartyzel twitter stream" href="https://twitter.com/MichalBartyzel">Michal Bartyzel</a> is coaching IT teams in soft skills and is a real expert in this field. You don't have to trust me on that, if you've got a chance, then attend to one of his conference talks. That should not be hard as he's  speaker on all major conferences in Poland  and as far as I know he's now speaking in many conferences in Central Europe.</p>
+<p>"<em>Tailored Software</em>" is a book that explains techniques of gathering requirements from the client, explains how to speak with other people, and shows couple of tricks that may be useful in the meetings. Michał gives a lot of examples and explains them in easy way so that even most hardcore backend developer, that never takes his earphones out, will be able to understand how to behave in given type of situation. And that is in my opinion, the biggest strength of this book: it's 1 on 1 with soft skills, but written in non boring and simple to absorb way for developers.</p>
+<p>For graduates it should give a solid fundamentals that will allow them to avoid a ton of simple mistakes that I made during my first contacts with the client. If you're already working with the client day by day, this book can offer you a lot too. For me it was a great way to do retrospective on what I already learned on the subject.</p>
+<p>Subtitle says: <em>How to talk with the client that does not know what he wants</em>. On the very beginning of the book, Michał explains that <em>client always knows what he wants, however he may not know what he needs</em>. And that is so very true. This book is full of such thoughts that are simple but can be game changing when you are in the meeting and getting angry on everyone else in the room. Remembering one of those quotes in tight situation can be a difference between having a project and punching someone in the face.</p>
+<p>Michał did one more great thing in this book. When I was finishing reading this book today, I wanted to do standard notes about everything that is out there in the book. However that was not necessary. Last chapter is such summary with all the useful graphics and diagrams. So you have condensed knowledge ready whenever you need it. I would write exactly same thing, but without all the graphics, and those pictures are very helpful.</p>
+<p><strong>Summary</strong></p>
+<p>It's a great book, one of <em>must haves</em> in your library. Please ping Michał to motivate him to translate it into English. Also if you happen to live in tricity, then please do note that Michał <strong>donated</strong> several copies of his books to our library. We've given out most of them already, except for one in JUG library. So you've got a chance to read that book and in return me expect just a simple review (which may be in Polish of course). Review may be on your blog, site like goodreads or on the shop site. Please let me know (or any other of JUG leaders) that you want it or <a title="Tricity JUG bookshelf" href="http://trojmiasto.jug.pl/bookshelf/">any other book that we have</a> in our bookshelf.</p>
+<p>&nbsp;</p>
+<p>One thing <strong>worth</strong> remembering: title translation to <em>Tailored Software</em> is done by me. I don't know what will be the English title, so please write down author name if you want to wait for the book. I'll try to remember to update the post when translation is going to be published.</p>

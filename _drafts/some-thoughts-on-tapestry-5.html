@@ -1,0 +1,32 @@
+---
+layout: post
+title: Some thoughts on Tapestry 5
+date: 
+type: post
+published: false
+status: draft
+categories:
+- English
+tags:
+- Tapestry5
+meta:
+  _edit_last: '1'
+author:
+  login: Eladamari
+  email: michal.gruca+wp@gmail.com
+  display_name: Michał Gruca
+  first_name: Michał
+  last_name: Gruca
+---
+<p>So after nearly 2 months of working with T5 it's time to share some experience.</p>
+<p>For those of you who don't know me so well, let me explain that for last 2-3 years I was promoting heavily T5 whenever I had occasion. I gave some speeches at Tricity JUG, wrote couple posts on this blog and tried to create as much buzz as I could. My guess is that most people think about me as a fanboy, and probably they are right. In my opinion I've got a lot of points why I prefer to work with T5 rather than with other frameworks. On the same time I've never had problem to work with e.g. Spring or struts, and I must admit that in those 3 years Spring started to catch up with T5.</p>
+<p>Right, so back to the main topic. I've finally got <a title="What I’m doing in UK" href="http://mgruca.wordpress.com/2011/11/20/what-im-doing-in-uk/">occasion</a> to look at large project code base written in T5 and here are some thoughts I want to share.</p>
+<p><strong>Local state of pages</strong></p>
+<p>Let's start from thing that I thought that is one of greatest strenghts of Tapestry. I radically changed my mind now and think that it may be greatest curse for your application.</p>
+<p>By default all fields in pages and their values are bounded to user session. There is no threat of sharing state  between users if we'll start using fields in a page objects. And we don't even have to clean up after ourselves. How is that possible?</p>
+<p>What Tapestry do in background is packing all variables  into Map and put them into session. When user comes back to page, values are being repopulated from map. Howard described that several times on his <a title="Howard Lewis Ship post about handling state in T5 pages" href="http://tapestryjava.blogspot.com/2010/07/everyone-out-of-pool-tapestry-goes.html" target="_blank">blog</a>.</p>
+<p><strong><strong>Debbugger issues</strong> </strong></p>
+<p><strong>Cleanliness</strong></p>
+<p><strong>Pure java</strong></p>
+<p><strong>Testability</strong></p>
+<p><strong>Overall experience</strong></p>

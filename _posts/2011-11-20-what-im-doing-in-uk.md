@@ -1,0 +1,37 @@
+---
+layout: post
+title: What I'm doing in UK
+date: 2011-11-20 13:04:59.000000000 +00:00
+type: post
+published: true
+status: publish
+categories:
+- Other
+tags: []
+---
+<p>Hi all,</p>
+<p>as promised in previous post, this time I publish for first time in English (or something that I'm calling English). Please treat this as a response to all questions regarding where am I, what I'm doing and how I've got here. Also if you have any further questions please ask them in here, as most probably someone else will also ask me about it ;) Last thing, it may be boring, as I'm describing all sort of stuff ;)</p>
+<p><strong>Disclaimer </strong>As a full story is rather long, and more actors are involved then I'm willing to introduce, hence I'm allowing myself to make story simpler.</p>
+<p><strong>The tale</strong></p>
+<p>All began around June when company called <a title="Proquest home page" href="http://www.proquest.co.uk/en-UK/" target="_blank">Proquest</a> was searching for contractors. They found my <a title="My linkedin profile" href="http://pl.linkedin.com/in/michalgruca" target="_blank">linkedin</a> profile by Tapestry 5 keyword. I had little practical experience with T5 till now, however combined with my theoretical knowledge it was enough for them. We've made couple calls, exchanged some emails, I've taken online tests, they told me what they are doing and happy with answers we've decided to arrange interview in their UK office.  In July I've been in Cambridge for face to face interview after which they started corpo process to join me with onsite team. Right after interview I was hyped by Howard Lewis Ship tweet, in which he thanked to proquest for help with dealing with a 'subtle bytecode generation bug'. Can I ask for better recommendation then from gather of Tapestry 5? :)</p>
+<p>It took some time before everything was  ready for my coming, but here I am. I have signed half year contract so I should be here till April (with exception of going to <a title="33degree 2012" href="http://mgruca.wordpress.com/2011/10/31/33degree-2012/" target="_blank">33degree conference</a>), what will happen next? Hard to say, and although we've started talking about it right now it's too early to say anything, I should know more soon.</p>
+<p><strong>Proquest - the client</strong></p>
+<p>Regarding company itself, I was excited to join they ranks, even if for just short time. Proquest is large corporation , scattered all around the world. Company main profile is searching and processing information.</p>
+<p>They've come up with they own development process, which they follow for couple of years. Core team haven't changed much recently, and they got a lot of knowledge in the domain. Just one thing freaked me, and not just a bit but a lot. Open space. It's really <em>open</em> in here. I wanted to take a photo of that, but corpo rules... sorry :)</p>
+<p>I thought that I've seen open spaces (in Zensar and in some degree in DC), but Proquest beats both those companies  hard in that regard. Other than LCD screens nothing separates people from each other. And it wouldn't be so scary if the rooms were smaller, but they are large. It took me a while to get used to such office layout, and IMHO I was able to adopt <em>so</em> <em>fast </em>just because my desk is next to window, so it brings me some degree of comfort.</p>
+<p><span style="text-decoration:underline;">Top tip</span>: watch out to not overdo with some concepts. Nonetheless I must admit that such layout has it advantages: communication is so much easier. On the other hand having a private chat is just impossible.</p>
+<p><strong>Technical</strong> - Tapestry :)</p>
+<p>From technical point of view, it is journey of my dreams. Proquest adopted Tapestry 5 long before first stable version, when T5 was in early beta and since then, they are contributing to the project (mostly indirectly). They are also well aware what's going on with framework and cooperate with Howard Lewis Ship whenever they need to push some features badly (for example T5.3 reduces memory consumption on pages, by a ... lot, and guess who was using every beta version of that release :)) That approach works well for both sides, as T5 gets better, due to insights from large project, and Proquest gets features it needs faster.</p>
+<p><span style="text-decoration:underline;">Top tip 2</span>: use Tapestry. Large corporation do, and it is happy with it ;)</p>
+<p>From my point of view I can finally test my knowledge against real, live, large project, developed by people who really know the technology, and judge for myself what I like/dislike in T5. Other than T5 they don't use any other frameworks, just some basic libraries (test tools + apache commons and alike) and some 3rd party tools for search engine. After a month I can see that there is not much value that additional libraries/frameworks could add to the project. So I'm happy with pure java + t5.</p>
+<p><strong>Project</strong></p>
+<p>Time to write something about the project itself.  We are working on search tool that is used already by many academic and professional clients. Currently main clients are libraries and universities, however after some acquisitions, professional leg of users is growing fast. and it's likely that while using library system you had contact with one of Proquest tools already. Application is searching in large datasets of indexed databases (periodicals, books, articles, thesis, etc) and allows to work further with returned documents (e.g. set alerts, export results, etc).</p>
+<p>I've been assigned to search team, so my tasks regard mainly everything between search boxes in the UI and 3rd party indexing tool available via set of services.</p>
+<p><strong>My observations</strong></p>
+<p>First of all it is good to just write code. Being developer takes a lot of burden out of one shoulder. But I'm starting to miss some things related to being in decision chain of the project so most probably before end of the contract, I'll spam couple of @ boxes with ideas regarding design, architecture and development process itself :)</p>
+<p>Nonetheless it's refreshing and changes perspective helps to look at development from different angle, take step back and rethink some of your opinions. At least it helped me :)</p>
+<p>Application is guarded by couple thousand of unit tests so it's harder to break anything. Sadly thousands of tests takes really long to run, I haven't broken the build yet, but I've seen couple of mails send by CI tool that should be titled 'Run <strong>all</strong> the tests  before commiting, dumbass!'. I understand that it takes a lot of time, but I don't get how can you just skip that part?</p>
+<p>Ok, that's more then enough for one time. Next time I'll publish some thoughts on T5 itself and after that let's head back  to post promised earlier like null object pattern :P (ok on the way there maybe I'll write one more post about something about testing and tools)</p>
+<p>So CU next time :)</p>
+<p>&nbsp;</p>
+<p>PS oh BTW <strong><span style="text-decoration:underline;">Top tip of all:</span></strong> if you are going to work abroad and are planning to finish some of your projects in free time, then it is good to remember to take your code with you ... Even more important when you left at home  your vdisk with redmine and all tasks in it (c's you didn't know about http://www.hostedredmine.com :)</p>
