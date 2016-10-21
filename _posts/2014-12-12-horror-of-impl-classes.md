@@ -10,7 +10,7 @@ categories:
 tags:
 - craftsmanship
 ---
-<p>If you've checked me on Twitter, you may have noticed <a href="http://rits.pl/wp-content/uploads/2014/12/2014-12-12_18-22-55_TweetDeck-Mozilla-Firefox.png"><img class="alignright size-medium wp-image-501" src="{{ site.baseurl }}/assets/2014-12-12_18-22-55_TweetDeck-Mozilla-Firefox-300x151.png" alt="My Twitter profile" width="300" height="151" /></a>my profile (screenshoot on right) and tag (?) line "Problem solver and father of many impl classes (not to proud about it).</p>
+<p>If you've checked me on Twitter, you may have noticed <a href="https://twitter.com/michalgruca"><img class="alignright size-medium wp-image-501" src="{{ site.baseurl }}/assets/2014-12-12_18-22-55_TweetDeck-Mozilla-Firefox-300x151.png" alt="My Twitter profile" width="300" height="151" /></a>my profile (screenshoot on right) and tag (?) line "Problem solver and father of many impl classes (not to proud about it).</p>
 <p>That <em>(not to proud about it)</em> part is the reason why I'm writing this blog post. I've received a very long question regarding that part: "Why?". In follow up discussion I've agreed to share why I hate xxxImpl classes so much, even thou I've had written so many of 'em in my life.</p>
 <h2>Impl ==&gt; no idea of what I'm doing</h2>
 <p>Let's start first from that Impl suffix implies that we have properly named interface (at least something ;)). Going to basics, what an interface is? By wiki definition</p>
