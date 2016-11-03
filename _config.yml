@@ -24,6 +24,7 @@ gems:
  - jekyll-paginate
  - jekyll-gist
  - jemoji
+ - jekyll-sitemap
 # - jekyll-twitter-plugin
 
 # Build settings
