@@ -2,7 +2,7 @@
 title: People and technology
 url: "http://rits.pl"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
-timezone: Europe/Warsaw 
+timezone: Europe/Warsaw
 description: >
   Developer journey through team leadership, delivery and people management
 
